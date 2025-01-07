@@ -1,7 +1,7 @@
 package com.depot.management;
 
 public class Customer {
-    private int queueNumber;
+      private int queueNumber;
     private String name;
     private String parcelId;
 
