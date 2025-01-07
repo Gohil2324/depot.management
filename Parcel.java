@@ -1,4 +1,4 @@
-package com.depot.management;
+   package com.depot.management;
 
 public class Parcel {
     private String id;
