@@ -3,7 +3,7 @@ package com.depot.management;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Log {
+  public class Log {
     private static Log instance = null;
     private StringBuilder logData = new StringBuilder();
 
