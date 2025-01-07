@@ -1,4 +1,4 @@
-package com.depot.management;
+  package com.depot.management;
 
 import java.util.Scanner;
 
